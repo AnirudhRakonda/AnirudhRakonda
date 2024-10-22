@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnirudhRakonda
-- 👀 I’m interested in UI/UX design and Frontend Development
+- 👀 I’m interested in UI/UX designer and Frontend Development
 - 🌱 I’m currently learning Rust to interact with Solana based projects
 - 📫 How to reach me anirudhprasadrakonda@gmail.com
 
